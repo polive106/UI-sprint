@@ -7,23 +7,24 @@
   opacity: 0.6;
 }
 
+
 .btn-medium:hover {
+  color:#999999;
   opacity: 1;
   text-decoration: none;
-  color: #999999;
+
 }
 
 .btn-treehouse {
   color: white;
+  background: #6AD58B;
   padding: 10px 15px;
   border-radius: 4px;
   font-weight: bold;
-  background: #6AD58B;
 }
 
 .btn-treehouse:hover {
+  color:white;
   opacity: 1;
-  background: #6AD58B;
   text-decoration: none;
-  color: white;
 }
